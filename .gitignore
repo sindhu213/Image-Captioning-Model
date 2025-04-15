@@ -2,3 +2,6 @@ Flickr8k_text/
 Flickr8k_Dataset/
 flickr8k-custom-tokenizer/
 saved_model.pth
+flickr8k-custom-tokenizer/
+saved_model.pth
+glove.6B/
