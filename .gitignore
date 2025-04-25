@@ -14,3 +14,9 @@ saved_model.pth
 glove.6B/
 model.pth
 quantized_model_full.pth
+flickr8k-custom-tokenizer/
+saved_model.pth
+glove.6B/
+model.pth
+quantized_model_full.pth
+new_best_model.pth
